@@ -1,27 +1,20 @@
-# Data Carpentry for Biologists - Semester Course
+# General Ecology - Semester Course
 
-This is a [forkable](https://help.github.com/articles/fork-a-repo/) set of teaching materials for teaching biologists how to work
-with data through programming, database management and computing more generally.
+This is a [forkable](https://help.github.com/articles/fork-a-repo/) set of 
+teaching materials for teaching an undergraduate general ecology course.
 
 This repository contains the complete teaching materials (excluding exams and
-answers to assignments) and [website](http://datacarpentry.org/semester-biology) for a university style and self-guided 
-course teaching computational data skills to biologists. 
-
-[Helpful information](http://www.datacarpentry.org/semester-biology/docs/) 
-is available regarding the structure and function of the course and website materials, as well as customization and delivery of the course.
+answers to assignments) and [website](link here) for a university style and self-guided 
+course teaching general ecology. 
 
 The course is designed to work primarily as a flipped classroom, with students
 reading and viewing videos before coming to class and then spending the bulk of
 class time working on exercises with the teacher answering questions and demoing
 the concepts.
 
-We encourage collaborative development. This repository was used by 
-@ethanwhite to teach a version of this course (Fall 2015) at the University of
-Florida. Some materials remain under active development. Materials that are 
-specific to a given course (e.g., the syllabus) will be generalized to templates 
-instead of being specific to the current course. We welcome contributions to all 
-other aspects of the course/site and are especially seeking exercises and 
-assignments for a range of disciplines.
+The basic design of this website is based on the [Programming for Biologists](http://www.datacarpentry.org/semester-biology/)
+course developed by Ethan White (@ethanwhite) at the University of Florida. His
+course materials can be found and forked [here](http://github.com/ethanwhite/semester-biology)
 
 ## Where is everything
 
@@ -32,29 +25,6 @@ Class specific materials are stored in the `syllabus`, `schedule` and `assignmen
 
 Most of the other folders and files support creating the course website using
 [Jekyll](http://jekyllrb.com/).
-
-
-## How to contribute
-
-We use standard [GitHub flow](https://guides.github.com/introduction/flow/), so
-fork the repository, add or change material, and submit a pull request.
-
-The goal of making this course forkable is to facilitate collaboration on
-developing this kind of material for university courses. The central component
-of a flipped computing course is the exercises, so one of the primary forms of
-contribution will be adding exercises to the pool of exercises. Individual
-instructors can then select from a rich pool of exercises the ones that fit the
-topics, languages, and scientific domains that best fit the material they want
-to cover in the course.
-
-There are lots of great resources for being introduced to the individual
-concepts being taught in courses like this. Our philosophy is to use and improve
-these external resources when available instead of creating new versions of the
-same content. In particularly we actively use
-[Data Carpentry](http://datacarpentry.org/lessons) and
-[Software Carpentry](http://software-carpentry.org/lessons.html) workshop
-materials. However, in cases where the necessary material doesn't exist
-elsewhere it can certainly be added here.
 
 
 ## Using Jekyll to build your own course website
@@ -124,9 +94,7 @@ After pushing to GitHub:
 
 ## Acknowledgements
 
-Development of this material is funded by [the Gordon and Betty Moore
-Foundation's Data-Driven Discovery
-Initiative](http://www.moore.org/programs/science/data-driven-discovery) through
-[Grant GBMF4563](http://www.moore.org/grants/list/GBMF4563) to Ethan White and
-the [National Science Foundation](http://nsf.gov/) as part of a [CAREER award to
-Ethan White](http://nsf.gov/awardsearch/showAward.do?AwardNumber=0953694).
+Development of this material is funded by the 
+[National Science Foundation](http://nsf.gov/) as part of a 
+[Postdoctoral Research Fellowship in Biology](http://www.nsf.gov/awardsearch/showAward?AWD_ID=1400370&HistoricalAwards=false)
+awarded to Andrew Tredennick.
