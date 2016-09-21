@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Assignment Schedule
-assignments: ['Introduction to Databases', 'Database Structure and Joins',
-'Introduction to R and RStudio', 'Working with Data', 'Data Visualization',
-'Programming Fundamentals 1', 'Programming Fundamentals 2','Version Control Basics', 'Integrating R and SQL', 'Putting It All Together']
+assignments: ['The Origins of Life', 'Population Ecology 1',
+'Population Ecology 2', 'Community Ecology 1: Single Trophic Communities', 'Community Ecology 2: Food Webs',
+'Succession', 'Ecosystem Ecology 1','Ecosystem Ecology 2', '', 'Putting It All Together']
 ---
 
 {% include assignments.html %}
