@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Syllabus
-catalog: CNR HERE
+catalog: CRN 123
 credits: 3
-semester: Semester 201x
+semester: Fall 2016
 professor: Dr. Andrew Tredennick
 office: where it is
 email: atredenn@gmail.com
-phone: xxx-xxx-xxxx
+phone: 111-111-1111
 schedule: ['Tuesdays, 3-4,
            'Fridays, 11:45-1:40]
 office_hours: Thursdays 3-4 pm, or by appointment
