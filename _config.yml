@@ -9,16 +9,16 @@ kramdown:
 permalink:        pretty
 
 # Setup
-title:            Data Carpentry -for- Biologists
-description:      'Teaching the tools to get computers to do cool science'
-url:              http://www.datacarpentry.org/semester-biology
-baseurl:          /semester-biology
-email:            datacarpentrysemester@weecology.org
+title:            Introduction -to- Ecology
+description:      'A course covering population, community, and ecosystem ecology for undergraduates'
+url:              http://atredennick.github.io/ecology_class/
+baseurl:          /ecology_class
+email:            atredenn@gmail.com
 
 author:
-  name:           'Ethan White'
-  url:            https://twitter.com/ethanwhite
+  name:           'Andrew Tredennick'
+  url:            https://twitter.com/atredennick
 
 github:
-  repo:           https://github.com/datacarpentry/semester-biology
+  repo:           https://github.com/atredennick/ecology_class
   #               Be sure the 'Issues' feature is activated in 'Settings'
