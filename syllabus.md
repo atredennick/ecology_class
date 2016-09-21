@@ -1,15 +1,15 @@
 ---
 layout: page
 title: Syllabus
-catalog: CRN 123
+catalog: WIS 6934
 credits: 3
-semester: Fall 2016
+semester: Fall 2015
 professor: Dr. Andrew Tredennick
-office: where it is
+office: Room 1
 email: atredenn@gmail.com
 phone: 111-111-1111
-schedule: ['Tuesdays, 3-4,
-           'Fridays, 11:45-1:40]
+schedule: ['Tuesdays, 3-4',
+           'Fridays, 11:45-1:40']
 office_hours: Thursdays 3-4 pm, or by appointment
 TA: TBD
 TA_email: TBD
@@ -108,7 +108,7 @@ Students completing this course will be able to:
 * Apply the above skills to address novel ecological questions
 
 
-### How this course relates to the Student Learning Outcomes in __blank__
+### How this course relates to the Student Learning Outcomes in blank
 
 This course contributes to the...
 
