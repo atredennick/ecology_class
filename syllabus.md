@@ -12,7 +12,7 @@ schedule: ['Tuesdays, 3-4',
            'Fridays, 11:45-1:40']
 office_hours: Thursdays 3-4 pm, or by appointment
 TA: TBD
-TA_email: TBD
+TA_email: TBD@tbd.edu
 ---
 
 ## {{ site.title }} 
