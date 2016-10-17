@@ -3,7 +3,6 @@ layout: page
 element: assignment
 title: The Origins of Life
 language: none
-exercises: ['Evolution', 'Test']
 ---
 
 #### Learning Objectives
@@ -16,4 +15,3 @@ exercises: ['Evolution', 'Test']
 
 {% include reading.html %}
 
-{% include assignment.html %}
