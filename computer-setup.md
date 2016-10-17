@@ -10,7 +10,7 @@ title: Computer Setup
 
 2. Next, open R Studio, at which point you should see something like this:
 
-![Rstudio image](/public/r-studio-open.png)
+![Rstudio image](/public/r-studio-open.png?raw=true)
 
 3. At the carrot (``>``), type ```3+3``` and hit enter (or return). At this,
 point your console should look something like this:
