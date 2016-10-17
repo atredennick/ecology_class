@@ -2,8 +2,8 @@
 layout: page
 element: assignment
 title: The Origins of Life
-language: [link](https://www.youtube.com/watch?v=sjE-Pkjp3u4&index=1&list=PL8dPuuaLjXtNdTKZkV_GiIYXpV9w4WxbX)
-exercises: ['Evolution']
+language: none
+exercises: ['Evolution', 'Test']
 ---
 
 #### Learning Objectives
