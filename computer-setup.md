@@ -16,8 +16,8 @@ title: Computer Setup
 point your console should look something like this:
 
 ```
-3+3
-6
+> 3+3
+[1] 6
 ```
 
 4. Now, assuming you are connected to the internet, type this line of code:
