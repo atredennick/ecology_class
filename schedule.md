@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Assignment Schedule
-assignments: ['Introduction to R and RStudio']
+assignments: ['The Origins of Life', 'Introduction to R and RStudio']
 ---
 
 {% include assignments.html %}
