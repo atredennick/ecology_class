@@ -15,14 +15,14 @@ title: Computer Setup
 3. At the carrot (``>``), type ```3+3``` and hit enter (or return). At this,
 point your console should look something like this:
 
-```{rtest, eval=TRUE, echo=TRUE, results='asis'}
+```
 3+3
 6
 ```
 
 4. Now, assuming you are connected to the internet, type this line of code:
 
-```{packtest, eval=FALSE}
+```
 install.packages("Matrix")
 ```
 
