@@ -1,10 +1,7 @@
 ---
 layout: page
 title: Assignment Schedule
-assignments: ['The Origins of Life', 'Introduction to R', 'Population Ecology 1',
-'Population Ecology 2', 'Community Ecology 1: Species Coexistence', 
-'Community Ecology 2: Food Webs', 'Succession', 'Ecosystem Ecology 1',
-'Ecosystem Ecology 2']
+assignments: ['Introduction to R']
 ---
 
 {% include assignments.html %}
@@ -18,4 +15,11 @@ outside of an organized course.
 - Update the `assignments:` list with `title:` from `assignments/` files. 
 - Add 'Template' to `assignments:` to view the course template from `docs/`. 
 - The remaining content should be left AS IS.
+
+'The Origins of Life', 
+'Population Ecology 1',
+'Population Ecology 2', 'Community Ecology 1: Species Coexistence', 
+'Community Ecology 2: Food Webs', 'Succession', 'Ecosystem Ecology 1',
+'Ecosystem Ecology 2'
+
 -->
