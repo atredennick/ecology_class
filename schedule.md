@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Assignment Schedule
-assignments: ['The Origins of Life', 'Population Ecology 1',
-'Population Ecology 2', 'Community Ecology 1: Single Trophic Communities', 'Community Ecology 2: Food Webs',
-'Succession', 'Ecosystem Ecology 1','Ecosystem Ecology 2', '', 'Putting It All Together']
+assignments: ['The Origins of Life', 'Introduction to R', 'Population Ecology 1',
+'Population Ecology 2', 'Community Ecology 1: Species Coexistence', 
+'Community Ecology 2: Food Webs', 'Succession', 'Ecosystem Ecology 1',
+'Ecosystem Ecology 2']
 ---
 
 {% include assignments.html %}
