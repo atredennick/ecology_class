@@ -1,7 +1,6 @@
 <table>
   <tr>
     <th width="50">Week</th>
-    <th width="200">Video</th>
     <th width="300">Lesson</th>
     <th width="50">Reading</th>
     <th width="50">Lecture</th>
@@ -12,7 +11,6 @@
       <td align="right">{{ forloop.index }}</td>
       {% for otherpage in site.pages %}
         {% if otherpage.title == assignment and otherpage.element == 'assignment' %}
-          <td>{{ otherpage.language }}</td>
           {% capture assignment_link %}{{ otherpage.url | prepend: site.baseurl }}{% endcapture %}
           {% for lecturepage in site.pages %}
             {% if lecturepage.title == assignment and lecturepage.element == 'lecture' and lecturepage.language == otherpage.language %}
