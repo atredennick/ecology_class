@@ -14,4 +14,4 @@ language: R
 
 * Readings
 
-  * here's one...
+  * [Speciation: The Origin of New Species](http://www.nature.com/scitable/knowledge/library/speciation-the-origin-of-new-species-26230527)
