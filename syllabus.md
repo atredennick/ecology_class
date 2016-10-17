@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Syllabus
-catalog: WIS 6934
+catalog: CID No.
 credits: 3
 semester: Fall 2015
 professor: Dr. Andrew Tredennick
-office: Room 1
+office: Biology, Room 1
 email: atredenn@gmail.com
 phone: 111-111-1111
 schedule: ['Tuesdays, 3-4',
@@ -93,7 +93,7 @@ of species go up and down through time and space, how so many species can
 coexist, and why ecological systems are vital for making our planet livable for
 humans. Essentially, you will learn what makes the nature tick. Along the way you
 will learn some basic mathematical modeling skills and how to perform analyses
-in the statistical program R.
+in the statistical program ``R``.
 
 
 ### Course Goals and Objectives
@@ -102,7 +102,7 @@ Students completing this course will be able to:
 
 * Understand and explain foundational ecological concepts
 * Use critical thinking skills to solve problems
-* Write simple ecological models in R
+* Write simple ecological models in ``R``
 * Be scientifically literate, and be able to effectively communicate scientific
   ideas
 * Apply the above skills to address novel ecological questions
@@ -214,12 +214,12 @@ and I will do my best to help.
 
 ## Grading Policies
 
-Grading for this course will revolve around a combination of assignments (75%)
-and an independent project (25%).
+Grading for this course will revolve around a combination of assignments (50%),
+exams (25%), and an independent project (25%).
 
 There will be 11 equally weighted assignments. One problem from each assignment
 (selected at the instructors discretion after the assignments have been
-submitted) will receive a thorough code review and a detailed grade. Other
+submitted) will receive a thorough review and a detailed grade. Other
 problems will be graded as follows:
 
 * Produces the correct answer using the requested approach: 100%
@@ -229,8 +229,7 @@ problems will be graded as follows:
     50%
 * Answer demonstrates a lack of understanding of the core concept: 0%
 
-Independent projects may focus on databases, programming, or a combination or
-the two.
+Independent projects will focus on a review of a foundational concept in ecology.
 
 ### Grading scale
 
