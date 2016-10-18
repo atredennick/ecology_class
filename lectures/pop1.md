@@ -1,7 +1,7 @@
 ---
 layout: page
 element: lecture
-title: The Origins of Life
+title: Population Ecology 1
 language: R
 ---
 
