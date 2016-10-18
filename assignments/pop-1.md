@@ -1,7 +1,7 @@
 ---
 layout: page
 element: assignment
-title: Population Ecology Assignment 1
+title: Population Ecology 1
 exercises: ['Births and Deaths', 'Exponential Population Growth']
 ---
 
