@@ -2,7 +2,7 @@
 layout: page
 element: assignment
 title: Population Ecology 1
-exercises: ['Births and Deaths', 'Exponential Population Growth']
+language: R
 ---
 
 #### Learning Objectives
@@ -13,5 +13,5 @@ exercises: ['Births and Deaths', 'Exponential Population Growth']
 > - understand exponential population growth
 > - code and simulate a simple population model in R
 
-
+{% include reading.html %}
 
