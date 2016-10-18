@@ -2,6 +2,7 @@
 layout: page
 element: reading
 title: Population Ecology 1
+language: R
 ---
 
 * Topics
